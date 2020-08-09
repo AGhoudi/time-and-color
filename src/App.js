@@ -8,8 +8,12 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to Time and Color</h1>
-      <Timer />
+      
+      <div className="timer">
+      
+          <Timer />
+      </div>
+      
     </div>
   );
 }

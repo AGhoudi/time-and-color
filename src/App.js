@@ -7,13 +7,10 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      
-      <div className="timer">
-      
-          <Timer />
-      </div>
-      
+    <div className="App">      
+        <div className="timer">      
+            <Timer />
+        </div>      
     </div>
   );
 }

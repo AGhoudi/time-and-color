@@ -23,7 +23,7 @@ class Timer extends React.Component {
         const { currentTime } = this.state;
         return (
             <React.Fragment>
-                <p>{currentTime}</p>
+                <div className="clock">{currentTime}</div>
             </React.Fragment>
         );
     }    

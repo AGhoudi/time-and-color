@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemonada&display=swap');
 
+@font-face {
+    font-family: 'neontubes';
+    src: url("https://bitbucket.org/kennethjensen/webfonts/raw/fc13c1cb430a0e9462da56fe3f421ff7af72db71/neontubes/neontubes-webfont.eot");
+    src: url("https://bitbucket.org/kennethjensen/webfonts/raw/fc13c1cb430a0e9462da56fe3f421ff7af72db71/neontubes/neontubes-webfont.eot?#iefix") format("embedded-opentype"), url("https://bitbucket.org/kennethjensen/webfonts/raw/fc13c1cb430a0e9462da56fe3f421ff7af72db71/neontubes/neontubes-webfont.woff2") format("woff2"), url("https://bitbucket.org/kennethjensen/webfonts/raw/fc13c1cb430a0e9462da56fe3f421ff7af72db71/neontubes/neontubes-webfont.woff") format("woff"), url("https://bitbucket.org/kennethjensen/webfonts/raw/fc13c1cb430a0e9462da56fe3f421ff7af72db71/neontubes/neontubes-webfont.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
 .timer {
     display: flex;
     justify-content: center;
@@ -19,7 +27,27 @@
     height: 20vw;
     border: 0.2rem solid black;
     border-radius: 100%;
-    background-color: tomato;
+    background: #030c1c;
+    background-size: 100% 100%;
     text-shadow: 0.2rem 0.2rem #fff;
 }
+
+.webdev {
+    color: #ffd9e2;
+    text-shadow: 0 0 0 transparent, 0 0 10px #ff003c, 0 0 20px rgba(255, 0, 60, 0.5), 0 0 40px #ff003c, 0 0 100px #ff003c, 0 0 200px #ff003c, 0 0 300px #ff003c, 0 0 500px #ff003c, 0 0 1000px #ff003c;
+    -webkit-animation: buzz 3s infinite alternate;
+          animation: buzz 3s infinite alternate;
+  }
+
+  @-webkit-keyframes buzz {
+    70% {
+      opacity: 0.80;
+    }
+  }
+   
+  @keyframes buzz {
+    70% {
+      opacity: 0.80;
+    }
+  }
 

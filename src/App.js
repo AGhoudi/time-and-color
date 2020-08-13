@@ -4,15 +4,18 @@ import Timer from './components/Time/Timer';
 
 import './App.css';
 
+class App extends React.Component {
 
-function App() {
-  return (
-    <div className="App">      
-        <div className="timer">      
-            <Timer />
-        </div>      
-    </div>
-  );
+  render() {
+      
+    return (
+        <div className="App">      
+            <div className="timer">      
+                <Timer />
+            </div>      
+        </div>
+    );
+  }
 }
 
 export default App;

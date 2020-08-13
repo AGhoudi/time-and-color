@@ -4,11 +4,12 @@ import './Timer.scss';
 
 class Timer extends React.Component {
 
-    constructor() {
-        super();
+    constructor(props) {
+        super(props);
         this.state = {
             currentTime: new Date().toLocaleTimeString()
         }
+        
     }
 
     componentDidMount() {
@@ -21,6 +22,7 @@ class Timer extends React.Component {
     
     render() {
         const { currentTime } = this.state;
+        console.log(this.state.currentTime)
         return (
             <React.Fragment>
                 <div className="clock">

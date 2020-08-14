@@ -26,7 +26,15 @@ class Timer extends React.Component {
         return (
             <React.Fragment>
                 <div className="clock">
-                <span className="webdev">{currentTime}</span>
+                    <h1>
+    
+    <em class="planet left">O</em>
+    
+    <span className="webdev">{currentTime}</span>
+    <em class="planet right">O</em>
+    
+    </h1>
+                
                 </div>
             </React.Fragment>
         );

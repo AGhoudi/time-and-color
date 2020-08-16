@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/time-and-color/static/css/main.a1a74354.chunk.css",
+    "main.js": "/time-and-color/static/js/main.d793a9b3.chunk.js",
+    "main.js.map": "/time-and-color/static/js/main.d793a9b3.chunk.js.map",
+    "runtime-main.js": "/time-and-color/static/js/runtime-main.63df1ae4.js",
+    "runtime-main.js.map": "/time-and-color/static/js/runtime-main.63df1ae4.js.map",
+    "static/js/2.994c6772.chunk.js": "/time-and-color/static/js/2.994c6772.chunk.js",
+    "static/js/2.994c6772.chunk.js.map": "/time-and-color/static/js/2.994c6772.chunk.js.map",
+    "index.html": "/time-and-color/index.html",
+    "precache-manifest.7a39291eace67bbec1ba1b4f0857a990.js": "/time-and-color/precache-manifest.7a39291eace67bbec1ba1b4f0857a990.js",
+    "service-worker.js": "/time-and-color/service-worker.js",
+    "static/css/main.a1a74354.chunk.css.map": "/time-and-color/static/css/main.a1a74354.chunk.css.map",
+    "static/js/2.994c6772.chunk.js.LICENSE.txt": "/time-and-color/static/js/2.994c6772.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/time-and-color/static/media/background.bc05e983.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63df1ae4.js",
+    "static/js/2.994c6772.chunk.js",
+    "static/css/main.a1a74354.chunk.css",
+    "static/js/main.d793a9b3.chunk.js"
+  ]
+}

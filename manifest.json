@@ -16,6 +16,17 @@
       "src": "logo384.png",
       "type": "image/png",
       "sizes": "384x384"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "maskable.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "maskable icon"
     }
   ],
   "start_url": "./",

@@ -1,17 +1,3 @@
-![timeandcolor](https://user-images.githubusercontent.com/27373255/131218008-2d2edc6a-031a-4295-b0b3-065f4d83d29f.png)
-# Time and Color
-
-## Présentation
-
-Projet crée en react afin de mettre en place l'heure actuelle via affichage
-
-Mise en place du typescript et Sass.
-
-## TODO-LIST
-create a function, to replace colors.
-Color made for hours
-need to send the function to app.tsx
-
 <div align=center><img src="https://user-images.githubusercontent.com/27373255/131218008-2d2edc6a-031a-4295-b0b3-065f4d83d29f.png" alt="time and color"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
 <p align=center>Projet crée en react/typescript afin d'afficher l'heure actuelle.</p>

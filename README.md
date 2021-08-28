@@ -8,7 +8,7 @@
 J'ai crée une application permettant d'afficher l'heure.</p>
 
 <h2 align=center>👁️ Visuel :</h2>
-<div align=center><img src="https://i.postimg.cc/XvK18NBm/memory.jpg" alt="visuel du jeu"</div>
+<div align=center><img src="https://user-images.githubusercontent.com/27373255/131218945-28b2b6dc-4f4d-405d-b2a6-84c5c4f8e86d.png" alt="time-and-color"</div>
 
 <h2 align=center>💻 Stack utilisé :</h2>
 

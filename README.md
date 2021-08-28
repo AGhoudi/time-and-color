@@ -1,3 +1,4 @@
+![timeandcolor](https://user-images.githubusercontent.com/27373255/131218008-2d2edc6a-031a-4295-b0b3-065f4d83d29f.png)
 # Time and Color
 
 ## Présentation
@@ -11,9 +12,9 @@ create a function, to replace colors.
 Color made for hours
 need to send the function to app.tsx
 
-<div align=center><img src="https://user-images.githubusercontent.com/27373255/131180724-f4b371b2-087a-4067-87bf-7550af64d3f5.png" alt="memory-game"/></div>
+<div align=center><img src="https://user-images.githubusercontent.com/27373255/131218008-2d2edc6a-031a-4295-b0b3-065f4d83d29f.png" alt="time and color"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
-<p align=center>Il s'agissait de créer un jeu de memory game, en utilisant le langage javascript.</p>
+<p align=center>Projet crée en react/typescript afin d'afficher l'heure actuelle.</p>
 
 <h2 align=center>📝 Description :</h2>
 
@@ -27,7 +28,7 @@ Il y a un nombre de paires de cartes, une fois qu'on les à toutes trouvées, le
 
 <h2 align=center>💻 Stack utilisé :</h2>
 
-<p align=center>HTML - CSS - Javascript</p>
+<p align=center>HTML - CSS - JAVASCRIPT - REACT - TYPESCRIPT - SASS</p>
 
 <h2 align=center>🌐 Lien web du projet :</h2>
 

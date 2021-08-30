@@ -18,4 +18,4 @@ J'ai crée une application permettant d'afficher l'heure.</p>
 
 <p align=center>Voici un lien pour tester l'application:
 
-  <a title="https://link1986.github.io/time-and-color/" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://link1986.github.io/time-and-color/">https://link1986.github.io/time-and-color/</a></p>
+  <a title="https://aghoudi.github.io/time-and-color/" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://aghoudi.github.io/time-and-color/">https://aghoudi.github.io/time-and-color/</a></p>

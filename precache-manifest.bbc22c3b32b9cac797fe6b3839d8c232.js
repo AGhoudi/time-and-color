@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a54302addc5ad9a6f4dbdee17883c12",
+    "revision": "2b3789265b5abedab54bee9a6b2d5891",
     "url": "/time-and-color/index.html"
   },
   {
-    "revision": "ff134303763c02d5ac95",
+    "revision": "ff897e39152cc8fa9e4e",
     "url": "/time-and-color/static/css/main.e4f7f70e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/time-and-color/static/js/2.21ea5bd6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ff134303763c02d5ac95",
-    "url": "/time-and-color/static/js/main.e3fb526d.chunk.js"
+    "revision": "ff897e39152cc8fa9e4e",
+    "url": "/time-and-color/static/js/main.47d10466.chunk.js"
   },
   {
     "revision": "5e4a21ce926c9462ba64",

@@ -66,11 +66,9 @@ class Timer extends React.Component<any, any>  {
                         style={{
                             color: `${textColor[randomNumber]}`,
                             textShadow: `0 0 10px ${borderColor[randomNumber]}, 0 0 20px ${borderColor[randomNumber]}, 0 0 40px ${borderColor[randomNumber]}, 0 0 100px ${borderColor[randomNumber]}, 0 0 200px ${borderColor[randomNumber]}, 0 0 300px ${borderColor[randomNumber]}, 0 0 500px ${borderColor[randomNumber]}, 0 0 1000px ${borderColor[randomNumber]}`
-                        }}
-                        
+                        }}                        
                         >
                             {currentTime}
-                            {console.log(textColor[randomNumber])}
                         </span> 
                     </h1>                
                 </div>

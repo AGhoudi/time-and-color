@@ -1,5 +1,5 @@
 {
-  "homepage": "https://link1986.github.io/time-and-color",
+  "homepage": "https://aghoudi.github.io/time-and-color",
   "name": "time-and-color",
   "version": "0.1.0",
   "private": true,
@@ -41,6 +41,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0"
+    "gh-pages": "^3.2.3"
   }
 }
